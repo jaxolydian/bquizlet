@@ -1,0 +1,7 @@
+1. git remote add origin https://github.com/jaxolydian/bquizlet.git
+2a. git add "filename" 
+or 
+2b. git add . (all)
+3. git commit -m "commit message"
+4. git branch -M main
+5. git push -u origin main
